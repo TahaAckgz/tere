@@ -1,0 +1,162 @@
+#text {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin: 5px 0px;
+}
+#text h1 {
+  font-size: 20px;
+}
+
+#tel {
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+}
+#telefon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #75bf7a;
+  border-radius: 50%;
+  width: 320px;
+  height: 320px;
+  padding: 50px 0;
+}
+#nokta {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px 0px;
+}
+#info {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px 0px;
+  font-size: 25px;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#group {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 30px 0px;
+}
+#baslik {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#baslik1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0 0 30px 0;
+}
+#group1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 30px 0px;
+}
+#baslik p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#flexible {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#flexible h1 {
+  color: #75bf7a;
+  font-size: 50px;
+}
+#flexible p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+  padding: 0 0 0 10px;
+}
+#group2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px 0;
+}
+#text1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px 0px;
+}
+#text1 p {
+  font-family: Arial, Helvetica, sans-serif;
+
+  font-size: 22px;
+}
+#text2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#text2 p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 22px;
+}
+#text3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0 0 20px 0;
+}
+#text3 p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 22px;
+}
+#a {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  background-color: #75bf7a;
+
+  height: 249px;
+}
+#ab {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 30px 0px;
+}
+#a p {
+  color: white;
+}
+#a input {
+  width: 280px;
+  height: 48px;
+}
+#a input::placeholder {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+#siyah {
+  background-color: black;
+  color: white;
+}
+#resim {
+  padding: 50px 0;
+}
+#telefon1 {
+  display: flex;
+  justify-content: center;
+  padding: 50px 0;
+}
+span {
+  color: #75bf7a;
+}
